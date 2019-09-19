@@ -9,3 +9,8 @@ body {
 .bigpicture {
     background-color:#ebebeb;
 }
+
+#smallpicture{
+    color: #ebebeb;
+    background: #777;
+}
