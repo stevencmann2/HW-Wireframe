@@ -12,5 +12,10 @@ body {
 
 #smallpicture{
     color: #ebebeb;
-    background: #777;
+    background-color: #777;
+}
+
+.txting {
+    color: #777;
+    background-color: #ebebeb
 }
