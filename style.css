@@ -4,18 +4,35 @@ body {
     background-color: #777;
     width: 960px;
     font-size: 18px;
+    text-align: center;
+    margin: auto;
 }
 
-.bigpicture {
-    background-color:#ebebeb;
+#HEADER {
+    background-color: #ebebeb;
 }
 
-#smallpicture{
-    color: #ebebeb;
-    background-color: #777;
+#NAV {
+    background-color: #ebebeb;
 }
 
-.txting {
-    color: #777;
-    background-color: #ebebeb
+#SECTION {
+    background-color: #ebebeb;
 }
+
+
+section {
+    width: 495px;
+    text-align: center;
+    float: left;
+    width: 50%;
+    font-size: 18px;
+    padding: 1em;
+}
+
+aside {
+    float: right;
+    width: 50%;
+    font-size: 18px;
+}
+
