@@ -18,21 +18,32 @@ body {
 
 #SECTION {
     background-color: #ebebeb;
-}
-
-
-section {
     width: 495px;
     text-align: center;
     float: left;
     width: 50%;
     font-size: 18px;
-    padding: 1em;
 }
 
-aside {
+#A-side {
+    background-color: #ebebeb;
     float: right;
     width: 50%;
     font-size: 18px;
 }
+
+#FOOTER {
+    background-color: #ebebeb;
+}
+
+#ARTICLE {
+    color: #ebebeb;
+    background: #777;
+}
+
+.H1andP {
+    color: #777;
+    background: #ebebeb;
+}
+
 
