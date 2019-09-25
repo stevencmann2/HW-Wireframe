@@ -30,25 +30,25 @@ body {
     text-align: center;
     float: left;
     font-size: 18px;
-    width: 495px;
+    width: 57%;
     margin-bottom: 20px;
     padding-bottom: 37px;
     padding-top: 30px;
     display: block;
-    block-size: 252px;
+   
 }
 
 #A-side {
     background-color: #ebebeb;
     float: right;
-    width: 47%;
+    width: 41%;
     font-size: 18px;
     text-align: center;
     margin-bottom: 20px;
     display: block;
     padding-top: 30px;
     padding-bottom: 90px;
-    block-size: 200px;
+    height: 225px;
 }
 
 footer {
@@ -67,11 +67,11 @@ footer {
     padding-top: 20px;
     padding-bottom: 15px;
     display: block;
-    width: 98%;
+    width: 95%;
     text-align: center;
     margin: auto;
     margin-top: 65px;
-    width: 470px;
+    
 
     
 
